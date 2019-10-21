@@ -1,7 +1,7 @@
 ---
 title: "Resilience in a Two-Population System"
 collection: publications
-permalink: /files/resilience_paper.pdf
+permalink: https://caljohnson.github.io/files/resilience_paper.pdf
 excerpt: 'This paper studies how migration and ecological network dynamics affect the resilience of populations and regime shift cascades. We focused on populations with variable-strength Allee effects, and used bifurcation and stability analysis to describe the quantitative and qualitative changes that occur in a two-population model as environmental and migration parameters varied.'
 date: 2018-01-29
 venue: 'Theoretical Ecology'
