@@ -2,7 +2,7 @@
 title: "Resilience in a Two-Population System"
 collection: publications
 permalink: /publication/resilience_paper.md
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper studies how migration and ecological network dynamics affect the resilience of populations and regime shift cascades. We focused on populations with variable-strength Allee effects, and used bifurcation and stability analysis to describe the quantitative and qualitative changes that occur in a two-population model as environmental and migration parameters varied.'
 date: 2018-01-29
 venue: 'Theoretical Ecology'
 paperurl: 'https://doi.org/10.1007/s12080-018-0365-4'
